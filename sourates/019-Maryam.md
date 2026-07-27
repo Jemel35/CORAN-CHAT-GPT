@@ -20,6 +20,21 @@ Cette sourate se distingue par une forte concentration sur la **miséricorde**, 
 - isoler les séquences prophétiques
 - préparer une future analyse rhétorique
 
+## Axe thématique complémentaire
+
+La sourate articule plusieurs tensions :
+- solitude et consolation
+- silence et parole
+- dépendance humaine et initiative divine
+- continuité prophétique et rupture avec l’oubli
+- pureté du don et résistance du refus
+
+## Premiers renvois internes
+
+- à relier avec les sourates de l’annonce et de la naissance
+- à relier avec les passages sur la miséricorde et le signe
+- à comparer avec les sourates où la parole divine fonde l’événement
+
 ## Traduction française
 
 À compléter.
