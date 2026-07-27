@@ -21,6 +21,22 @@ Cette sourate met fortement en avant l’appel, la mission, la révélation et l
 - rôle pédagogique de la narration
 - articulation entre mémoire, écoute et obéissance
 
+## Axe complémentaire
+
+La sourate peut aussi être lue comme une pédagogie de la confiance : le sujet appelé doit traverser la peur, recevoir la parole, accepter la mission et tenir ferme dans l’épreuve.
+
+## Renvois immédiats
+
+- sourates de vocation prophétique
+- sourates de confrontation avec le pouvoir
+- sourates où la parole divine structure le récit
+
+## Visualize
+
+Carte à produire :
+- centre : Ṭā-Hā
+- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation
+
 ## Traduction française
 
 À compléter.
