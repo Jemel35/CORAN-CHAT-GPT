@@ -30,12 +30,26 @@ La sourate peut aussi être lue comme une pédagogie de la confiance : le sujet 
 - sourates de vocation prophétique
 - sourates de confrontation avec le pouvoir
 - sourates où la parole divine structure le récit
+- sourates centrées sur l’épreuve du porteur de message
+
+## Piste lexicale
+
+Mots-clés à isoler pour un futur enrichissement :
+- parole
+- signe
+- feu
+- appel
+- mission
+- patience
+- confiance
+- obéissance
+- mémoire
 
 ## Visualize
 
 Carte à produire :
 - centre : Ṭā-Hā
-- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation
+- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation / mémoire / patience
 
 ## Traduction française
 
