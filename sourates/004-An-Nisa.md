@@ -20,10 +20,13 @@ Cette sourate met en avant l’organisation sociale, la justice, la protection d
 - tension entre ordre social et abus
 - présence constante de la responsabilité devant Dieu et devant les hommes
 - mise en place d’un cadre communautaire protecteur
+- relation entre droits, devoirs et protection des plus faibles
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la justice concrète : la parole divine y structure la vie commune pour protéger, ordonner et rendre droit.
+
+Elle insiste aussi sur le fait que la cohésion ne naît pas seulement de la règle, mais de la fidélité éthique à ce que la règle veut préserver : la dignité, la protection et la responsabilité.
 
 ## Piste lexicale
 
@@ -39,6 +42,8 @@ Mots-clés à isoler :
 - communauté
 - rappel
 - orphelin
+- dignité
+- devoir
 
 ## Renvois immédiats
 
@@ -46,12 +51,13 @@ Mots-clés à isoler :
 - sourates de la loi et de la cohésion
 - sourates de l’ordre social
 - sourates de la responsabilité communautaire
+- sourates du droit des faibles
 
 ## Visualize
 
 Carte à produire :
 - centre : An-Nisāʾ
-- branches : justice / protection / responsabilité / loi / cohésion / vulnérable / ordre / rectitude / communauté / rappel / orphelin
+- branches : justice / protection / responsabilité / loi / cohésion / vulnérable / ordre / rectitude / communauté / rappel / orphelin / dignité / devoir
 
 ## Traduction française
 
