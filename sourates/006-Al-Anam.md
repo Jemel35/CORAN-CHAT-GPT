@@ -19,10 +19,13 @@ Cette sourate insiste sur le signe, la création, la responsabilité du regard h
 - progression entre démonstration et avertissement
 - tension entre évidence et aveuglement
 - rôle de la conscience dans la réception du message
+- confrontation entre certitude de la preuve et fermeture intérieure
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la preuve : la création est donnée comme signe, mais ce signe demande un regard juste, une écoute vraie et une disponibilité intérieure pour être reçu.
+
+Elle insiste aussi sur le fait que la preuve n’est pas purement logique : elle engage la totalité du sujet, son regard, son ouïe, sa conscience et sa responsabilité.
 
 ## Piste lexicale
 
@@ -37,12 +40,20 @@ Mots-clés à isoler :
 - responsabilité
 - preuve
 - aveuglement
+- conscience
+- certitude
+
+## Renvois immédiats
+
+- sourates du signe et du discernement
+- sourates de la preuve et de la conscience
+- sourates de la souveraineté divine
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Anʿām
-- branches : signe / création / discernement / écoute / regard / rappel / souveraineté / responsabilité / preuve / aveuglement
+- branches : signe / création / discernement / écoute / regard / rappel / souveraineté / responsabilité / preuve / aveuglement / conscience / certitude
 
 ## Traduction française
 
