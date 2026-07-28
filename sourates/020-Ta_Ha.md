@@ -21,10 +21,13 @@ Cette sourate met fortement en avant l’appel, la mission, la révélation et l
 - rôle pédagogique de la narration
 - articulation entre mémoire, écoute et obéissance
 - circulation des motifs du feu, du bâton, de la main et de l’appel
+- progression de la crainte vers la confiance
 
 ## Axe complémentaire
 
 La sourate peut aussi être lue comme une pédagogie de la confiance : le sujet appelé doit traverser la peur, recevoir la parole, accepter la mission et tenir ferme dans l’épreuve.
+
+Elle montre que la mission prophétique ne consiste pas seulement à parler, mais à apprendre à écouter, à attendre et à persévérer dans une fidélité active.
 
 ## Renvois immédiats
 
@@ -33,6 +36,7 @@ La sourate peut aussi être lue comme une pédagogie de la confiance : le sujet 
 - sourates où la parole divine structure le récit
 - sourates centrées sur l’épreuve du porteur de message
 - sourates du rappel et de la patience
+- sourates de la confiance et de la mission
 
 ## Piste lexicale
 
@@ -48,12 +52,14 @@ Mots-clés à isoler pour un futur enrichissement :
 - mémoire
 - bâton
 - main
+- écoute
+- persévérance
 
 ## Visualize
 
 Carte à produire :
 - centre : Ṭā-Hā
-- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation / mémoire / patience / feu / bâton / main
+- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation / mémoire / patience / feu / bâton / main / écoute / persévérance
 
 ## Traduction française
 
