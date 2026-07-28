@@ -25,6 +25,7 @@ Cette sourate articule fortement le rappel du jugement, l’appel à la prostern
 - mise en garde contre l’automatisme du geste sans présence du cœur
 - opposition entre conformité visible et orientation réelle du cœur
 - différence entre le rite comme forme et le rite comme présence
+- distinction entre répétition rituelle et renouvellement de l’intention
 
 ## Déploiement thématique
 
@@ -37,6 +38,8 @@ La sourate peut encore être lue comme une mise en crise des automatismes religi
 Elle souligne enfin que l’orientation véritable n’est pas seulement spatiale ou rituelle, mais spirituelle : elle engage tout l’être dans une réponse consciente au signe.
 
 Le pèlerinage y devient ainsi une scène de tri : il révèle la qualité de l’attente, de la confiance et de la disponibilité intérieure.
+
+La répétition des formes rituelles n’a de valeur que si elle est traversée par une intention renouvelée et par la vigilance du cœur.
 
 ## Piste lexicale
 
@@ -62,6 +65,8 @@ Mots-clés à isoler :
 - attente
 - disponibilité
 - présence
+- intention
+- renouvellement
 
 ## Renvois immédiats
 
@@ -75,7 +80,7 @@ Mots-clés à isoler :
 
 Carte à produire :
 - centre : Al-Ḥajj
-- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel / alliance / crainte / conscience / conversion / justice / orientation / cœur / conformité / attente / disponibilité / présence
+- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel / alliance / crainte / conscience / conversion / justice / orientation / cœur / conformité / attente / disponibilité / présence / intention / renouvellement
 
 ## Traduction française
 
