@@ -19,10 +19,13 @@ Cette sourate met en tension le repentir, le désaveu, la fidélité au pacte et
 - rôle du repentir comme retour ordonné
 - articulation entre mémoire, loyauté et responsabilité
 - tension entre communauté vivante et hypocrisie
+- passage du jugement à la possibilité du retour
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du discernement : le pardon n’abolit pas la justice, et la justice n’abolit pas la possibilité du retour. Le texte organise ainsi un espace où la fidélité devient aussi une forme de purification.
+
+Elle montre également que le repentir n’est pas seulement une émotion, mais un acte de réorientation profonde qui remet le sujet en accord avec le pacte et la vérité du lien.
 
 ## Piste lexicale
 
@@ -37,12 +40,20 @@ Mots-clés à isoler :
 - communauté
 - discernement
 - retour
+- justice
+- réorientation
+
+## Renvois immédiats
+
+- sourates du pacte et de la purification
+- sourates du discernement moral
+- sourates de la communauté et de la loyauté
 
 ## Visualize
 
 Carte à produire :
 - centre : At-Tawba
-- branches : repentir / pacte / fidélité / trahison / pardon / purification / responsabilité / communauté / discernement / retour
+- branches : repentir / pacte / fidélité / trahison / pardon / purification / responsabilité / communauté / discernement / retour / justice / réorientation
 
 ## Traduction française
 
