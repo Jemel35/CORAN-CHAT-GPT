@@ -19,10 +19,13 @@ Cette sourate ouvre un espace de réflexion sur le déplacement, l’ascension, 
 - rôle des prescriptions morales comme guide
 - répétitions autour du signe, de la parole et du rappel
 - relation entre voyage, vision et responsabilité
+- passage du fait prodigieux à l’exigence éthique
 
 ## Déploiement thématique
 
 La sourate met en relation le signe du déplacement nocturne et la rectitude éthique : le passage n’est pas seulement spatial, il est aussi moral et spirituel. Le texte articule ainsi la mémoire, l’écoute et l’exigence d’une conduite juste.
+
+Elle montre que la vraie élévation n’est pas une fuite hors du monde, mais une transformation du regard et de l’agir dans le monde.
 
 ## Piste lexicale
 
@@ -37,12 +40,20 @@ Mots-clés à isoler :
 - rectitude
 - responsabilité
 - élévation
+- regard
+- transformation
+
+## Renvois immédiats
+
+- sourates du signe et de la responsabilité
+- sourates de la rectitude éthique
+- sourates de la transformation du regard
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Isrāʾ
-- branches : voyage nocturne / signe / mémoire / guidance / rectitude / gratitude / responsabilité / élévation
+- branches : voyage nocturne / signe / mémoire / guidance / rectitude / gratitude / responsabilité / élévation / regard / transformation
 
 ## Traduction française
 
