@@ -21,12 +21,15 @@ Cette sourate articule fortement le rappel du jugement, l’appel à la prostern
 - articulation entre signe, rite et responsabilité
 - tension entre foi vécue et pratique formelle
 - alternance entre élévation spirituelle et rappel du jugement
+- passage du rite extérieur à la conscience intérieure
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du passage du visible à l’intelligible : le rite renvoie à une mémoire, la mémoire à une alliance, l’alliance à une responsabilité, et la responsabilité à un jugement final qui donne sens aux actes.
 
 Elle met aussi en relation la fragilité humaine, la nécessité du rappel et la conversion du geste rituel en acte de conscience.
+
+La sourate peut encore être lue comme une mise en crise des automatismes religieux : elle oblige à réinterpréter le rite en le rendant à sa fonction de rappel, de justice et d’orientation.
 
 ## Piste lexicale
 
@@ -45,12 +48,20 @@ Mots-clés à isoler :
 - crainte
 - conversion
 - conscience
+- justice
+- orientation
+
+## Renvois immédiats
+
+- sourates du rappel et de la responsabilité
+- sourates du rite et de la conscience
+- sourates de la communauté et de la justice
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Ḥajj
-- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel / alliance / crainte / conscience / conversion
+- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel / alliance / crainte / conscience / conversion / justice / orientation
 
 ## Traduction française
 
