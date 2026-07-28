@@ -19,10 +19,13 @@ Cette sourate met en avant le signe, la gratitude, le don, l’ordre du vivant e
 - relation entre bienfait et responsabilité
 - montée pédagogique du rappel vers l’obéissance
 - articulation entre création, reconnaissance et conduite
+- opposition entre réception juste et aveuglement face au don
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une méditation sur la générosité divine : les bienfaits ne sont pas simplement décrits, ils appellent une réponse éthique et spirituelle.
+
+Elle insiste aussi sur le fait que le signe n’est pas seulement une preuve à comprendre, mais un appel à vivre autrement.
 
 ## Piste lexicale
 
@@ -37,12 +40,19 @@ Mots-clés à isoler :
 - reconnaissance
 - ordre
 - don
+- conscience
+
+## Renvois immédiats
+
+- sourates du signe et de la gratitude
+- sourates de la création comme preuve
+- sourates de la reconnaissance et de la conduite
 
 ## Visualize
 
 Carte à produire :
 - centre : An-Naḥl
-- branches : bienfait / gratitude / signe / création / vivant / rappel / rectitude / reconnaissance / ordre / don
+- branches : bienfait / gratitude / signe / création / vivant / rappel / rectitude / reconnaissance / ordre / don / conscience
 
 ## Traduction française
 
