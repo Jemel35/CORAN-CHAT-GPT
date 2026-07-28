@@ -24,10 +24,13 @@ Al-Baqara constitue une sourate-pivot du corpus : elle organise le passage de l�
 - tension entre obéissance et refus
 - construction d’une identité communautaire
 - passage du principe à l’organisation concrète de la vie commune
+- montée progressive de la responsabilité collective
 
 ## Déploiement thématique
 
 La sourate peut être lue comme un vaste parcours de formation : elle expose les attitudes fondamentales devant la révélation, rappelle les fautes du passé, institue des pratiques, et construit une communauté orientée vers une direction commune.
+
+Elle sert aussi de matrice législative et spirituelle : la loi n’y est jamais séparée de la mémoire, et la mémoire jamais séparée de la fidélité au pacte.
 
 ## Piste lexicale
 
@@ -45,6 +48,8 @@ Mots-clés à isoler :
 - foi
 - désobéissance
 - responsabilité
+- fidélité
+- purification
 
 ## Renvois immédiats
 
@@ -53,12 +58,13 @@ Mots-clés à isoler :
 - sourates de rappel historique
 - sourates du changement de direction
 - sourates du pacte et de la purification
+- sourates de la responsabilité collective
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Baqara
-- branches : guidance / alliance / épreuve / mémoire / communauté / loi / orientation / foi / obéissance / repentance / responsabilité
+- branches : guidance / alliance / épreuve / mémoire / communauté / loi / orientation / foi / obéissance / repentance / responsabilité / fidélité / purification
 
 ## Traduction française
 
