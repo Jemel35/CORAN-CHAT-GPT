@@ -21,6 +21,7 @@ Cette sourate rassemble de nombreuses figures prophétiques et met en avant la c
 - place de la miséricorde au cœur de la transmission
 - effet de série dans l’enchaînement des exemples prophétiques
 - fonction exemplaire de chaque récit dans la pédagogie d’ensemble
+- relation entre mémoire collective et responsabilité présente
 
 ## Déploiement thématique
 
@@ -43,18 +44,20 @@ Mots-clés à isoler :
 - fidélité
 - continuité
 - guidance
+- responsabilité
 
 ## Renvois immédiats
 
 - sourates de la continuité prophétique
 - sourates du rappel et de la transmission
 - sourates de la patience et de la fidélité
+- sourates de la mémoire collective
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Anbiyāʾ
-- branches : prophètes / signe / rappel / unité du message / patience / miséricorde / avertissement / mémoire / fidélité / continuité / guidance
+- branches : prophètes / signe / rappel / unité du message / patience / miséricorde / avertissement / mémoire / fidélité / continuité / guidance / responsabilité
 
 ## Traduction française
 
