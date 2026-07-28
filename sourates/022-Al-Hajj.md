@@ -24,6 +24,7 @@ Cette sourate articule fortement le rappel du jugement, l’appel à la prostern
 - passage du rite extérieur à la conscience intérieure
 - mise en garde contre l’automatisme du geste sans présence du cœur
 - opposition entre conformité visible et orientation réelle du cœur
+- différence entre le rite comme forme et le rite comme présence
 
 ## Déploiement thématique
 
@@ -60,6 +61,7 @@ Mots-clés à isoler :
 - conformité
 - attente
 - disponibilité
+- présence
 
 ## Renvois immédiats
 
@@ -73,7 +75,7 @@ Mots-clés à isoler :
 
 Carte à produire :
 - centre : Al-Ḥajj
-- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel / alliance / crainte / conscience / conversion / justice / orientation / cœur / conformité / attente / disponibilité
+- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel / alliance / crainte / conscience / conversion / justice / orientation / cœur / conformité / attente / disponibilité / présence
 
 ## Traduction française
 
