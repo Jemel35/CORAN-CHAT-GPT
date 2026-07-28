@@ -20,10 +20,13 @@ Cette sourate met en scène la patience, l’épreuve, la fidélité à la véri
 - rapport entre innocence, jalousie et patience
 - alternance entre chute et relèvement
 - présence constante de la providence dans l’histoire
+- jeu des retards du sens et des révélations progressives
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du temps long : le sens ne se donne pas immédiatement, mais s’éclaire par étapes à mesure que l’épreuve traverse le sujet et le forme.
+
+Elle montre aussi que la providence ne supprime pas la blessure ; elle la travaille jusqu’à en faire un lieu de maturation, de lucidité et de reconnaissance.
 
 ## Piste lexicale
 
@@ -38,12 +41,20 @@ Mots-clés à isoler :
 - reconnaissance
 - providence
 - accomplissement
+- regard
+- maturation
+
+## Renvois immédiats
+
+- sourates du temps long et de l’épreuve
+- sourates de la patience et de la fidélité
+- sourates de la reconnaissance finale
 
 ## Visualize
 
 Carte à produire :
 - centre : Yūsuf
-- branches : rêve / jalousie / puits / épreuve / prison / interprétation / reconnaissance / patience / providence / accomplissement
+- branches : rêve / jalousie / puits / épreuve / prison / interprétation / reconnaissance / patience / providence / accomplissement / regard / maturation
 
 ## Traduction française
 
