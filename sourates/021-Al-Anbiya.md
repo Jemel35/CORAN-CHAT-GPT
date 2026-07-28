@@ -19,6 +19,7 @@ Cette sourate rassemble de nombreuses figures prophétiques et met en avant la c
 - répétitions et variations
 - articulation entre mémoire, preuve et avertissement
 - place de la miséricorde au cœur de la transmission
+- effet de série dans l’enchaînement des exemples prophétiques
 
 ## Piste lexicale
 
@@ -31,12 +32,18 @@ Mots-clés à isoler :
 - patience
 - transmission
 - unité
+- mémoire
+- fidélité
+
+## Déploiement thématique
+
+La sourate peut être lue comme une démonstration de continuité : chaque figure prophétique ne remplace pas la précédente, mais la confirme, la relie à l’ensemble et fait apparaître un même axe de guidance à travers des situations diverses.
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Anbiyāʾ
-- branches : prophètes / signe / rappel / unité du message / patience / miséricorde / avertissement
+- branches : prophètes / signe / rappel / unité du message / patience / miséricorde / avertissement / mémoire / fidélité
 
 ## Traduction française
 
