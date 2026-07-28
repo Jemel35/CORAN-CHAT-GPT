@@ -20,12 +20,15 @@ Cette sourate articule la patience, le signe, le rappel et la distinction entre 
 - tension entre hâte humaine et temporalité divine
 - mise en valeur de la patience comme forme de fermeté
 - passage du signe visible au rappel intérieur
+- articulation entre preuve et retournement de la conscience
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du temps : le vrai n’est pas immédiatement reconnu, mais il laisse des traces, des signes et des rappels qui travaillent la conscience dans la durée.
 
 Elle montre aussi que la patience n’est pas simple attente passive : elle devient une forme de lucidité et de constance qui accompagne la révélation jusqu’à son effet réel.
+
+Le rappel n’y est pas seulement un contenu, mais un mouvement intérieur qui recompose la perception des événements.
 
 ## Piste lexicale
 
@@ -42,18 +45,20 @@ Mots-clés à isoler :
 - refus
 - lucidité
 - constance
+- retournement
 
 ## Renvois immédiats
 
 - sourates du signe et du temps
 - sourates de la patience et de la constance
 - sourates de l’histoire comme avertissement
+- sourates du rappel intérieur
 
 ## Visualize
 
 Carte à produire :
 - centre : Yūnus
-- branches : signe / rappel / patience / guidance / dénégation / conscience / histoire / temporalité / vérité / refus / lucidité / constance
+- branches : signe / rappel / patience / guidance / dénégation / conscience / histoire / temporalité / vérité / refus / lucidité / constance / retournement
 
 ## Traduction française
 
