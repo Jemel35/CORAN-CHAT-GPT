@@ -19,6 +19,7 @@ Cette sourate met en avant l’organisation sociale, la justice, la protection d
 - rôle de la justice comme principe de cohésion
 - tension entre ordre social et abus
 - présence constante de la responsabilité devant Dieu et devant les hommes
+- mise en place d’un cadre communautaire protecteur
 
 ## Déploiement thématique
 
@@ -37,12 +38,20 @@ Mots-clés à isoler :
 - rectitude
 - communauté
 - rappel
+- orphelin
+
+## Renvois immédiats
+
+- sourates de la justice et de la protection
+- sourates de la loi et de la cohésion
+- sourates de l’ordre social
+- sourates de la responsabilité communautaire
 
 ## Visualize
 
 Carte à produire :
 - centre : An-Nisāʾ
-- branches : justice / protection / responsabilité / loi / cohésion / vulnérable / ordre / rectitude / communauté / rappel
+- branches : justice / protection / responsabilité / loi / cohésion / vulnérable / ordre / rectitude / communauté / rappel / orphelin
 
 ## Traduction française
 
