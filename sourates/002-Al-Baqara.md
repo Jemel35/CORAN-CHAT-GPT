@@ -23,6 +23,7 @@ Al-Baqara constitue une sourate-pivot du corpus : elle organise le passage de l�
 - rôle central du pivot de la qibla
 - tension entre obéissance et refus
 - construction d’une identité communautaire
+- passage du principe à l’organisation concrète de la vie commune
 
 ## Déploiement thématique
 
@@ -43,6 +44,7 @@ Mots-clés à isoler :
 - repentance
 - foi
 - désobéissance
+- responsabilité
 
 ## Renvois immédiats
 
@@ -50,12 +52,13 @@ Mots-clés à isoler :
 - sourates de législation
 - sourates de rappel historique
 - sourates du changement de direction
+- sourates du pacte et de la purification
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Baqara
-- branches : guidance / alliance / épreuve / mémoire / communauté / loi / orientation / foi / obéissance / repentance
+- branches : guidance / alliance / épreuve / mémoire / communauté / loi / orientation / foi / obéissance / repentance / responsabilité
 
 ## Traduction française
 
