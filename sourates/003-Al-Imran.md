@@ -19,10 +19,13 @@
 - articulation entre communauté croyante et controverse
 - présence forte du discernement
 - prolongement du travail communautaire entamé dans Al-Baqara
+- mise en parallèle entre fidélité doctrinale et fidélité pratique
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la constance intellectuelle et spirituelle : elle appelle à tenir ensemble l’adhésion au vrai, la lucidité devant les débats et la patience dans l’épreuve.
+
+Elle prolonge Al-Baqara en montrant que la communauté n’existe pleinement que si elle sait discerner, argumenter et demeurer ferme sans perdre sa verticalité spirituelle.
 
 ## Piste lexicale
 
@@ -37,6 +40,7 @@ Mots-clés à isoler :
 - constance
 - débat
 - fidélité
+- rectitude
 
 ## Renvois immédiats
 
@@ -44,12 +48,13 @@ Mots-clés à isoler :
 - sourates de la révélation
 - sourates de la continuité prophétique
 - sourates de la patience et de la constance
+- sourates de la rectitude doctrinale
 
 ## Visualize
 
 Carte à produire :
 - centre : Āl ʿImrān
-- branches : vérité / patience / signe / révélation / discernement / communauté / épreuve / constance / débat / fidélité
+- branches : vérité / patience / signe / révélation / discernement / communauté / épreuve / constance / débat / fidélité / rectitude
 
 ## Traduction française
 
