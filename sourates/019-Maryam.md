@@ -20,6 +20,7 @@ Cette sourate se distingue par une forte concentration sur la **miséricorde**, 
 - isoler les séquences prophétiques
 - préparer une future analyse rhétorique
 - distinguer les passages de prière, d’annonce, de contestation et de mémoire
+- suivre le rythme des alternances entre silence, interpellation et réponse
 
 ## Axe thématique complémentaire
 
@@ -30,6 +31,7 @@ La sourate articule plusieurs tensions :
 - continuité prophétique et rupture avec l’oubli
 - pureté du don et résistance du refus
 - promesse, accomplissement et reconnaissance
+- attente et émerveillement devant le signe
 
 ## Renvois internes
 
@@ -37,6 +39,7 @@ La sourate articule plusieurs tensions :
 - à relier avec les passages sur la miséricorde et le signe
 - à comparer avec les sourates où la parole divine fonde l’événement
 - à rapprocher des textes où la mémoire des serviteurs modèles structure le discours
+- à comparer avec les récits où la parole divine provoque une réponse de foi
 
 ## Piste lexicale
 
@@ -51,12 +54,15 @@ Mots-clés à isoler pour une future consolidation :
 - fidélité
 - mémoire
 - contestation
+- attente
+- émerveillement
+- réponse
 
 ## Visualize
 
 Carte à produire :
 - centre : Maryam
-- branches : miséricorde / parole / naissance / signe / mémoire / promesse / fidélité / consolation / contestation
+- branches : miséricorde / parole / naissance / signe / mémoire / promesse / fidélité / consolation / contestation / attente / émerveillement / réponse
 
 ## Traduction française
 
