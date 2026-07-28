@@ -1,8 +1,48 @@
 # 013 — Ar-Raʿd / الرعد
 
-## Texte
+## Axe de lecture
 
-À compléter.
+Cette sourate met en relation le tonnerre, le signe, l’ordre du monde et la puissance de la parole divine. Elle se prête à une lecture centrée sur la tension entre clarté du signe et obstination du refus.
+
+## Séquences de travail
+
+- présence du signe cosmique
+- confrontation entre rappel et dénégation
+- ordre du monde et reconnaissance
+- rapport entre manifestation et écoute
+- contraste entre guidance et aveuglement
+
+## Axes de structuration
+
+- alternance entre signe et refus
+- mise en valeur de la parole comme orientation
+- présence du monde naturel comme argument
+- tension entre visible et intelligible
+- articulation entre crainte, conscience et guidance
+
+## Déploiement thématique
+
+La sourate peut être lue comme une méditation sur la force du signe : le cosmos n’est pas un décor, mais une adresse. Le tonnerre, la pluie et l’ordre du réel deviennent les vecteurs d’un rappel adressé à la conscience.
+
+## Piste lexicale
+
+Mots-clés à isoler :
+- signe
+- tonnerre
+- ordre
+- parole
+- rappel
+- écoute
+- guidance
+- crainte
+- refus
+- conscience
+
+## Visualize
+
+Carte à produire :
+- centre : Ar-Raʿd
+- branches : signe / tonnerre / ordre / parole / rappel / écoute / guidance / crainte / refus / conscience
 
 ## Traduction française
 
@@ -14,5 +54,6 @@
 
 ## Notes
 
-- Sourate de continuité pour la série
-- Base de travail pour la suite du corpus
+- Sourate à enrichir avec une analyse rhétorique plus fine
+- À relier aux sourates du signe et de la conscience
+- Base de travail pour Visualize : frise, carte conceptuelle, réseau du signe
