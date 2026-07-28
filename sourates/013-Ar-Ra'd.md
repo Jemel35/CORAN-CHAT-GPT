@@ -19,10 +19,13 @@ Cette sourate met en relation le tonnerre, le signe, l’ordre du monde et la pu
 - présence du monde naturel comme argument
 - tension entre visible et intelligible
 - articulation entre crainte, conscience et guidance
+- passage du phénomène naturel au rappel spirituel
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une méditation sur la force du signe : le cosmos n’est pas un décor, mais une adresse. Le tonnerre, la pluie et l’ordre du réel deviennent les vecteurs d’un rappel adressé à la conscience.
+
+Elle montre aussi que le signe n’est pas seulement vu : il doit être entendu, accueilli et traduit en orientation juste.
 
 ## Piste lexicale
 
@@ -37,12 +40,20 @@ Mots-clés à isoler :
 - crainte
 - refus
 - conscience
+- adresse
+- orientation
+
+## Renvois immédiats
+
+- sourates du signe et de la conscience
+- sourates de l’ordre du monde
+- sourates de l’écoute et de l’orientation
 
 ## Visualize
 
 Carte à produire :
 - centre : Ar-Raʿd
-- branches : signe / tonnerre / ordre / parole / rappel / écoute / guidance / crainte / refus / conscience
+- branches : signe / tonnerre / ordre / parole / rappel / écoute / guidance / crainte / refus / conscience / adresse / orientation
 
 ## Traduction française
 
