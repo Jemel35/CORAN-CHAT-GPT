@@ -20,6 +20,11 @@ Al-Fātiḥa ouvre le Livre comme une prière condensée : louange, miséricorde
 - tension entre généralité divine et adresse personnelle
 - fonction d’ouverture du corpus
 - rôle matriciel pour les sourates suivantes
+- passage de la proclamation à la supplication
+
+## Déploiement thématique
+
+La sourate peut être lue comme une synthèse de toute la dynamique coranique : elle part de la louange, traverse la reconnaissance de la souveraineté et du jugement, puis s’ouvre sur la demande d’un chemin juste. Cette progression fait d’elle une matrice de lecture du reste du corpus.
 
 ## Piste lexicale
 
@@ -32,12 +37,20 @@ Mots-clés à isoler :
 - voie
 - alliance
 - adoration
+- chemin
+- requête
+
+## Renvois immédiats
+
+- sourates de guidance
+- sourates de distinction entre les voies
+- sourates de prière et d’orientation
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Fātiḥa
-- branches : louange / miséricorde / souveraineté / guidance / jugement / voie / adoration / alliance
+- branches : louange / miséricorde / souveraineté / guidance / jugement / voie / adoration / alliance / chemin / requête
 
 ## Traduction française
 
