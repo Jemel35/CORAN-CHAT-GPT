@@ -12,12 +12,13 @@ Cette sourate articule fortement le rappel du jugement, l’appel à la prostern
 - sens du pèlerinage
 - distinction entre rites, foi et responsabilité
 
-## Points à développer
+## Axes de structuration
 
 - vocabulaire du rappel et de l’avertissement
 - contrastes entre attitude intérieure et geste rituel
 - relation entre mémoire abrahamique et communauté
 - structure argumentative générale
+- articulation entre signe, rite et responsabilité
 
 ## Piste lexicale
 
@@ -30,12 +31,14 @@ Mots-clés à isoler :
 - responsabilité
 - signe
 - communauté
+- rite
+- rappel
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Ḥajj
-- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe
+- branches : pèlerinage / prosternation / mémoire d’Abraham / jugement / communauté / responsabilité / signe / rite / rappel
 
 ## Traduction française
 
