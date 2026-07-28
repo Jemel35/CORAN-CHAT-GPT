@@ -20,6 +20,7 @@ Cette sourate met fortement en avant l’appel, la mission, la révélation et l
 - opposition entre vérité et magie
 - rôle pédagogique de la narration
 - articulation entre mémoire, écoute et obéissance
+- circulation des motifs du feu, du bâton, de la main et de l’appel
 
 ## Axe complémentaire
 
@@ -31,6 +32,7 @@ La sourate peut aussi être lue comme une pédagogie de la confiance : le sujet 
 - sourates de confrontation avec le pouvoir
 - sourates où la parole divine structure le récit
 - sourates centrées sur l’épreuve du porteur de message
+- sourates du rappel et de la patience
 
 ## Piste lexicale
 
@@ -44,12 +46,14 @@ Mots-clés à isoler pour un futur enrichissement :
 - confiance
 - obéissance
 - mémoire
+- bâton
+- main
 
 ## Visualize
 
 Carte à produire :
 - centre : Ṭā-Hā
-- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation / mémoire / patience
+- branches : appel / mission / révélation / signe / obéissance / peur / confiance / confrontation / mémoire / patience / feu / bâton / main
 
 ## Traduction française
 
