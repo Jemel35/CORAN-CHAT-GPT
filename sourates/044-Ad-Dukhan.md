@@ -19,10 +19,13 @@ Cette sourate met en avant l’avertissement, le rappel du jugement, la distinct
 - progression de l’oubli vers le rappel
 - mise en valeur de la responsabilité humaine
 - passage de la menace à la possibilité du retour
+- opposition entre aveuglement et réveil
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du réveil : la crise révèle ce qui était caché, et l’avertissement ouvre l’espace du repentir avant le jugement.
+
+Elle montre aussi que le rappel n’est pas seulement un contenu, mais une secousse intérieure qui rend possible une conversion avant qu’il ne soit trop tard.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - mémoire
 - responsabilité
 - retour
+- réveil
+- conversion
 
 ## Renvois immédiats
 
 - sourates de l’avertissement et du jugement
 - sourates du signe de crise
 - sourates du repentir et du retour
+- sourates du réveil intérieur
 
 ## Visualize
 
 Carte à produire :
 - centre : Ad-Dukhān
-- branches : avertissement / signe / crise / jugement / refus / repentir / rappel / mémoire / responsabilité / retour
+- branches : avertissement / signe / crise / jugement / refus / repentir / rappel / mémoire / responsabilité / retour / réveil / conversion
 
 ## Traduction française
 
