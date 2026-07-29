@@ -19,10 +19,13 @@ Cette sourate met en avant la victoire, l’ouverture, la sérénité accordée 
 - progression du combat vers l’apaisement
 - mise en valeur du secours comme confirmation
 - passage de l’épreuve à l’ouverture
+- relation entre victoire et pacification
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la victoire juste : le triomphe n’est pas seulement gain, il est ouverture du sens et stabilisation de la fidélité.
+
+Elle montre aussi que la victoire véritable ne se réduit pas à l’emportement : elle se traduit par la sérénité, l’alliance confirmée et la confiance consolidée.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - combat
 - apaisement
 - confirmation
+- pacification
+- sens
 
 ## Renvois immédiats
 
 - sourates de la victoire juste
 - sourates de l’alliance et du secours
 - sourates de la sérénité croyante
+- sourates de la pacification du sens
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Fatḥ
-- branches : victoire / ouverture / sérénité / secours / alliance / fidélité / confiance / combat / apaisement / confirmation
+- branches : victoire / ouverture / sérénité / secours / alliance / fidélité / confiance / combat / apaisement / confirmation / pacification / sens
 
 ## Traduction française
 
