@@ -19,10 +19,13 @@ Cette sourate met en avant l’ordre des serviteurs, la fidélité des envoyés,
 - articulation entre alignement, rappel et tri
 - mise en valeur de la discipline spirituelle
 - passage du combat au dénouement juste
+- relation entre ordre, obéissance et triomphe
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de l’alignement : le vrai triomphe lorsque les forces sont ordonnées autour de la fidélité et du rappel.
+
+Elle montre aussi que la victoire spirituelle n’est pas un accident, mais l’effet d’un ordre intérieur et céleste accordé à la vérité.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - alignement
 - discipline
 - tri
+- obéissance
+- vérité
 
 ## Renvois immédiats
 
 - sourates de l’ordre des serviteurs
 - sourates du combat spirituel
 - sourates de la victoire du vrai
+- sourates de l’obéissance à la vérité
 
 ## Visualize
 
 Carte à produire :
 - centre : Aṣ-Ṣāffāt
-- branches : ordre / serviteurs / récits / fidélité / erreur / rappel / victoire / alignement / discipline / tri
+- branches : ordre / serviteurs / récits / fidélité / erreur / rappel / victoire / alignement / discipline / tri / obéissance / vérité
 
 ## Traduction française
 
