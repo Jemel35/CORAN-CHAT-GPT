@@ -19,10 +19,13 @@ Cette sourate met en avant les signes du pouvoir, la gratitude ou l’ingratitud
 - progression de l’abondance vers l’épreuve morale
 - usage du récit historique comme avertissement
 - passage du don à la responsabilité
+- mise en valeur de la mémoire des civilisations
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la gratitude éprouvée : l’abondance n’est pas un simple privilège, elle révèle la qualité du rapport au don.
+
+Elle montre aussi que la puissance n’a de sens que si elle se convertit en reconnaissance, en responsabilité et en mémoire juste des conséquences.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - rappel
 - conséquence
 - abondance
+- mémoire
+- reconnaissance
 
 ## Renvois immédiats
 
 - sourates du signe et du pouvoir
 - sourates de la gratitude et de l’ingratitude
 - sourates de la responsabilité devant le don
+- sourates de la mémoire des civilisations
 
 ## Visualize
 
 Carte à produire :
 - centre : Sabaʾ
-- branches : signe / pouvoir / gratitude / ingratitude / histoire / responsabilité / don / rappel / conséquence / abondance
+- branches : signe / pouvoir / gratitude / ingratitude / histoire / responsabilité / don / rappel / conséquence / abondance / mémoire / reconnaissance
 
 ## Traduction française
 
