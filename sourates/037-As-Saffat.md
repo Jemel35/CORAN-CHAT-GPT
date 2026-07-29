@@ -20,6 +20,7 @@ Cette sourate met en avant l’ordre des serviteurs, la fidélité des envoyés,
 - mise en valeur de la discipline spirituelle
 - passage du combat au dénouement juste
 - relation entre ordre, obéissance et triomphe
+- renforcement du lien entre récit exemplaire et victoire finale
 
 ## Déploiement thématique
 
@@ -42,6 +43,7 @@ Mots-clés à isoler :
 - tri
 - obéissance
 - vérité
+- exemplarité
 
 ## Renvois immédiats
 
@@ -49,12 +51,13 @@ Mots-clés à isoler :
 - sourates du combat spirituel
 - sourates de la victoire du vrai
 - sourates de l’obéissance à la vérité
+- sourates de l’exemplarité victorieuse
 
 ## Visualize
 
 Carte à produire :
 - centre : Aṣ-Ṣāffāt
-- branches : ordre / serviteurs / récits / fidélité / erreur / rappel / victoire / alignement / discipline / tri / obéissance / vérité
+- branches : ordre / serviteurs / récits / fidélité / erreur / rappel / victoire / alignement / discipline / tri / obéissance / vérité / exemplarité
 
 ## Traduction française
 
