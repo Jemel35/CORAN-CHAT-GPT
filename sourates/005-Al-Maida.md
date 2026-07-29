@@ -20,12 +20,15 @@ Cette sourate met en avant l’alliance, la table donnée, la fidélité aux eng
 - présence du signe comme fondement de l’obligation
 - relation entre loi, mémoire et communauté
 - passage du principe à la responsabilité concrète
+- mise en forme de la fidélité dans la vie collective
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du pacte vécu : le don n’est pas un simple avantage, il appelle une réponse de fidélité, d’ordre et de justice.
 
 Elle montre aussi que la communauté n’est durable que si elle apprend à convertir le don en engagement et la mémoire en rectitude pratique.
+
+La table donnée devient alors le symbole d’une nourriture spirituelle et sociale qui engage la communauté à vivre selon la vérité reçue.
 
 ## Piste lexicale
 
@@ -42,18 +45,21 @@ Mots-clés à isoler :
 - justice
 - engagement
 - rectitude
+- mémoire
+- vérité
 
 ## Renvois immédiats
 
 - sourates du pacte et de la communauté
 - sourates de la loi et de la responsabilité
 - sourates du don et de l’engagement
+- sourates de la fidélité communautaire
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Māʾida
-- branches : alliance / don / table / fidélité / rupture / loi / responsabilité / communauté / signe / justice / engagement / rectitude
+- branches : alliance / don / table / fidélité / rupture / loi / responsabilité / communauté / signe / justice / engagement / rectitude / mémoire / vérité
 
 ## Traduction française
 
