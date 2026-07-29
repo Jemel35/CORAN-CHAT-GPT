@@ -19,10 +19,13 @@ Cette sourate met en avant l’appel à se lever et avertir, la purification int
 - progression du réveil vers la responsabilité
 - mise en valeur de la gravité
 - passage de l’endormissement à la veille
+- relation entre intériorité purifiée et parole avertissante
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du réveil : celui qui reçoit la mission doit se purifier, se lever et avertir avec clarté.
+
+Elle montre aussi que la mission ne s’accomplit pas dans la simple intention : elle requiert une conversion intérieure qui se manifeste dans l’acte d’avertir.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - gravité
 - veille
 - réveil
+- intériorité
+- conversion
 
 ## Renvois immédiats
 
 - sourates du réveil du messager
 - sourates de la purification intérieure
 - sourates de l’avertissement grave
+- sourates de la conversion intérieure
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Muddaththir
-- branches : appel / lever / avertir / purification / jugement / responsabilité / mission / gravité / veille / réveil
+- branches : appel / lever / avertir / purification / jugement / responsabilité / mission / gravité / veille / réveil / intériorité / conversion
 
 ## Traduction française
 
