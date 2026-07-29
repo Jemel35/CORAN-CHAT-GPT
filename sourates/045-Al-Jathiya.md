@@ -19,10 +19,13 @@ Cette sourate met en avant les signes dans la création et l’histoire, la resp
 - progression du regard vers le jugement
 - mise en valeur de la lucidité face au refus
 - passage du signe à la prosternation imposée
+- relation entre contemplation et conséquence
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du regard responsable : contempler les signes sans en tirer conséquence conduit à l’aveuglement moral, puis au jugement.
+
+Elle montre aussi que le regard n’est pas neutre : il engage une responsabilité devant l’histoire, la création et l’ultime verdict.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - lucidité
 - responsabilité
 - prosternation
+- contemplation
+- conséquence
 
 ## Renvois immédiats
 
 - sourates du signe et du jugement
 - sourates du regard responsable
 - sourates de l’orgueil et du refus
+- sourates de la contemplation et de la conséquence
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Jāthiya
-- branches : signe / création / histoire / refus / jugement / regard / orgueil / lucidité / responsabilité / prosternation
+- branches : signe / création / histoire / refus / jugement / regard / orgueil / lucidité / responsabilité / prosternation / contemplation / conséquence
 
 ## Traduction française
 
