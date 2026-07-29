@@ -19,10 +19,13 @@ Cette sourate met en avant la consultation, la révélation, l’unité du messa
 - progression du message vers la communauté
 - mise en valeur de la sagesse partagée
 - passage de l’individuel au commun
+- relation entre écoute collective et fidélité au centre
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la concertation : la vérité révélée appelle une communauté capable d’écouter, de réfléchir et d’agir ensemble sans perdre son centre.
+
+Elle montre aussi que la consultation n’est pas faiblesse, mais un mode de solidité communautaire qui ordonne la diversité au service de la vérité.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - communauté
 - écoute
 - agir
+- fidélité
+- centre
 
 ## Renvois immédiats
 
 - sourates de la consultation et de la sagesse
 - sourates de l’unité du message
 - sourates de la solidarité croyante
+- sourates de la fidélité au centre
 
 ## Visualize
 
 Carte à produire :
 - centre : Ash-Shūrā
-- branches : consultation / révélation / unité / message / solidarité / croyants / sagesse / communauté / écoute / agir
+- branches : consultation / révélation / unité / message / solidarité / croyants / sagesse / communauté / écoute / agir / fidélité / centre
 
 ## Traduction française
 
