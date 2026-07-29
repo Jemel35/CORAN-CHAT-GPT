@@ -19,10 +19,13 @@ Cette sourate met en avant la lumière, la pureté, la mise en ordre de la vie s
 - articulation entre vie privée, vie sociale et responsabilité
 - mise en valeur de la retenue et de la clarté
 - passage du visible au juste
+- passage de l’éclat du signe à la discipline concrète
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la lumière : ce qui éclaire véritablement ne se contente pas d’illuminer l’esprit, il ordonne aussi la parole, le regard et la vie collective.
+
+Elle montre aussi que la lumière n’est pas seulement une image spirituelle : elle se traduit en règles de vie, en retenue et en protection de l’honneur.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - retenue
 - clarté
 - ordre
+- discipline
+- protection
 
 ## Renvois immédiats
 
 - sourates de la lumière et du discernement
 - sourates de la protection de l’honneur
 - sourates de l’ordre social
+- sourates de la discipline du regard
 
 ## Visualize
 
 Carte à produire :
 - centre : An-Nūr
-- branches : lumière / pureté / honneur / regard / parole / discernement / communauté / retenue / clarté / ordre
+- branches : lumière / pureté / honneur / regard / parole / discernement / communauté / retenue / clarté / ordre / discipline / protection
 
 ## Traduction française
 
