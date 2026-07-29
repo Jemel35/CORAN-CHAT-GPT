@@ -19,10 +19,13 @@ Cette sourate met en avant la clarté de la révélation, les signes dans la cr�
 - progression de la preuve vers l’adhésion
 - mise en valeur de la patience du porteur du message
 - passage de la confusion à la précision
+- relation entre exposé détaillé et réception intérieure
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la clarté : ce qui est révélé avec précision demande un cœur capable de recevoir la lumière sans se défendre par le refus.
+
+Elle montre aussi que la clarté ne suffit pas à elle seule : elle doit rencontrer une disponibilité intérieure, une écoute juste et une patience fidèle.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - lumière
 - obscurité
 - précision
+- disponibilité
+- écoute
 
 ## Renvois immédiats
 
 - sourates de la clarté révélée
 - sourates du signe cosmique
 - sourates de la patience du porteur du message
+- sourates de la disponibilité intérieure
 
 ## Visualize
 
 Carte à produire :
 - centre : Fuṣṣilat
-- branches : révélation / clarté / signe / création / accueil / refus / patience / lumière / obscurité / précision
+- branches : révélation / clarté / signe / création / accueil / refus / patience / lumière / obscurité / précision / disponibilité / écoute
 
 ## Traduction française
 
