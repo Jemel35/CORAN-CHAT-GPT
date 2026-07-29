@@ -19,10 +19,13 @@ Cette sourate met en avant l’illusion des apparences, la valeur réelle du mes
 - progression de la critique vers la clarification
 - mise en valeur du message contre le prestige
 - passage du décor au critère
+- opposition entre éclat social et profondeur du vrai
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du discernement face à l’apparence : ce qui brille n’a pas nécessairement de valeur, et le critère juste ne se confond pas avec l’éclat social.
+
+Elle montre aussi que le prestige peut devenir un écran, tandis que le message demande une écoute capable de traverser les apparences pour atteindre la vérité.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - vérité
 - critère
 - discernement
+- éclat
+- profondeur
 
 ## Renvois immédiats
 
 - sourates du critère et de l’apparence
 - sourates de la vérité contre le prestige
 - sourates du discernement face à l’illusion
+- sourates de la profondeur du vrai
 
 ## Visualize
 
 Carte à produire :
 - centre : Az-Zukhruf
-- branches : apparence / prestige / message / signe / histoire / illusion / ornement / vérité / critère / discernement
+- branches : apparence / prestige / message / signe / histoire / illusion / ornement / vérité / critère / discernement / éclat / profondeur
 
 ## Traduction française
 
