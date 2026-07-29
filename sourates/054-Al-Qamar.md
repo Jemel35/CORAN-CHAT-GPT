@@ -19,10 +19,13 @@ Cette sourate met en avant le signe cosmique, le rappel des peuples passés et l
 - progression du rappel vers la responsabilité
 - mise en valeur de la répétition du signe
 - passage de l’orgueil au jugement
+- relation entre éclat du signe et obstination du déni
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du rappel éclatant : le signe visible et l’histoire des peuples convergent pour rendre l’avertissement impossible à ignorer.
+
+Elle montre aussi que le signe n’éduque pas seulement l’intellect : il met l’orgueil au défi et dévoile la fragilité de la résistance humaine.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - jugement
 - histoire
 - responsabilité
+- orgueil
+- déni
 
 ## Renvois immédiats
 
 - sourates du signe cosmique
 - sourates du rappel historique
 - sourates de l’avertissement et du jugement
+- sourates de l’orgueil et du déni
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Qamar
-- branches : signe / lune / rappel / peuples / avertissement / refus / obstination / jugement / histoire / responsabilité
+- branches : signe / lune / rappel / peuples / avertissement / refus / obstination / jugement / histoire / responsabilité / orgueil / déni
 
 ## Traduction française
 
