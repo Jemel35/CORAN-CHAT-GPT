@@ -19,10 +19,13 @@ Cette sourate met en avant la gestion de l’épreuve communautaire, la cohésio
 - progression de l’épreuve vers la stabilité
 - mise en valeur de la fidélité concrète
 - passage de la menace à l’ordre
+- clarification des appartenances dans la crise
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la fidélité éprouvée : l’exemple du messager devient le centre de gravité qui permet à la communauté de traverser la crise sans se dissoudre.
+
+Elle montre aussi que la cohésion ne se maintient pas par la simple pression extérieure, mais par une réorganisation intérieure et sociale autour d’un modèle juste.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - modèle
 - ordre
 - menace
+- stabilité
+- appartenance
 
 ## Renvois immédiats
 
 - sourates de l’épreuve communautaire
 - sourates de l’exemplarité prophétique
 - sourates de la cohésion sociale
+- sourates de la stabilité en crise
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Aḥzāb
-- branches : épreuve / cohésion / communauté / exemplarité / fidélité / crise / responsabilité / modèle / ordre / menace
+- branches : épreuve / cohésion / communauté / exemplarité / fidélité / crise / responsabilité / modèle / ordre / menace / stabilité / appartenance
 
 ## Traduction française
 
