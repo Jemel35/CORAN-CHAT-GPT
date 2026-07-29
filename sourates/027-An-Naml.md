@@ -19,10 +19,13 @@ Cette sourate met en avant le signe, la sagesse du jugement, la communication en
 - progression de l’épreuve vers la reconnaissance
 - mise en valeur de la sagesse comme discernement juste
 - passage du prodige à la confession de la souveraineté
+- rôle de la communication comme médiation du sens
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du signe intelligent : le signe n’est pas un effet isolé, il conduit à reconnaître l’ordre supérieur qui le rend lisible.
+
+Elle montre aussi que la vraie sagesse ne se réduit pas à l’efficacité du pouvoir : elle consiste à lire le signe avec humilité et à le convertir en reconnaissance.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - récit
 - humilité
 - communication
+- médiation
+- lisibilité
 
 ## Renvois immédiats
 
 - sourates du signe et de la sagesse
 - sourates du jugement et de la souveraineté
 - sourates de la reconnaissance
+- sourates de la médiation du signe
 
 ## Visualize
 
 Carte à produire :
 - centre : An-Naml
-- branches : signe / sagesse / jugement / pouvoir / connaissance / reconnaissance / souveraineté / récit / humilité / communication
+- branches : signe / sagesse / jugement / pouvoir / connaissance / reconnaissance / souveraineté / récit / humilité / communication / médiation / lisibilité
 
 ## Traduction française
 
