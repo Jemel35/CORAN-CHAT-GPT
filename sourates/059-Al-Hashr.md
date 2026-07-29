@@ -19,10 +19,13 @@ Cette sourate met en avant l’expulsion, le rassemblement, la mémoire du nom d
 - progression du rassemblement vers la leçon
 - mise en valeur de la souveraineté divine
 - passage de l’histoire au cœur
+- relation entre crise historique et tri intérieur
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du rassemblement : l’événement historique devient un miroir de la réunion finale et un appel à la rectitude intérieure.
+
+Elle montre aussi que la rupture collective peut devenir une leçon de lucidité, de mémoire et de recentrage du cœur sur le vrai.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - histoire
 - souveraineté
 - cœur
+- crise
+- lucidité
 
 ## Renvois immédiats
 
 - sourates du rassemblement et de la mémoire
 - sourates de la souveraineté divine
 - sourates de la rectitude intérieure
+- sourates du tri intérieur
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Ḥashr
-- branches : rassemblement / mémoire / nom divin / communauté / rupture / retour / rectitude / histoire / souveraineté / cœur
+- branches : rassemblement / mémoire / nom divin / communauté / rupture / retour / rectitude / histoire / souveraineté / cœur / crise / lucidité
 
 ## Traduction française
 
