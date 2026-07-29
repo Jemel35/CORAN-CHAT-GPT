@@ -19,10 +19,13 @@ Cette sourate met en avant la sagesse, la gratitude, la parole juste et l’édu
 - progression du conseil vers la responsabilité
 - mise en valeur de la gratitude comme réponse au don
 - rôle du cœur dans la formation morale
+- passage de la parole à l’exemplarité
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la sagesse pratique : elle montre comment la parole juste, la gratitude et la retenue contribuent à former une conscience croyante stable.
+
+Elle montre aussi que la sagesse n’est pas une théorie abstraite : elle se transmet dans le conseil, la retenue et la fidélité à la responsabilité.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - famille
 - responsabilité
 - don
+- exemplarité
+- fidélité
 
 ## Renvois immédiats
 
 - sourates de la sagesse pratique
 - sourates de la gratitude et du conseil
 - sourates de la formation du cœur
+- sourates de l’exemplarité familiale
 
 ## Visualize
 
 Carte à produire :
 - centre : Luqmān
-- branches : sagesse / gratitude / conseil / parole / retenue / cœur / guidance / famille / responsabilité / don
+- branches : sagesse / gratitude / conseil / parole / retenue / cœur / guidance / famille / responsabilité / don / exemplarité / fidélité
 
 ## Traduction française
 
