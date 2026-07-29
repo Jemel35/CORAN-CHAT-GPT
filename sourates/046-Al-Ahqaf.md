@@ -19,10 +19,13 @@ Cette sourate met en avant la mémoire des peuples disparus, l’appel à la fid
 - progression de l’histoire vers la responsabilité
 - mise en valeur des traces comme signes
 - passage du passé à la décision présente
+- relation entre souvenir et orientation
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la mémoire : les peuples disparus ne sont pas seulement évoqués, ils deviennent des avertissements vivants pour le présent.
+
+Elle montre aussi que l’histoire n’est pas un musée du passé : elle est une adresse qui oblige le présent à choisir.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - traces
 - avertissement
 - destin
+- souvenir
+- orientation
 
 ## Renvois immédiats
 
 - sourates de la mémoire historique
 - sourates de l’écoute du message
 - sourates de la responsabilité des nations
+- sourates de l’orientation présente
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Aḥqāf
-- branches : mémoire / peuples / écoute / fidélité / message / responsabilité / histoire / traces / avertissement / destin
+- branches : mémoire / peuples / écoute / fidélité / message / responsabilité / histoire / traces / avertissement / destin / souvenir / orientation
 
 ## Traduction française
 
