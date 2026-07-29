@@ -19,10 +19,13 @@ Cette sourate met en avant la vision, la véracité de la révélation et la con
 - progression du signe vers l’adhésion
 - mise en valeur du témoignage reçu
 - passage de l’illusion à la rectitude
+- relation entre ciel, vision et responsabilité
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la vision vraie : ce qui est vu et transmis avec véracité doit devenir orientation juste et non simple spectacle.
+
+Elle montre aussi que la vision véritable ne consiste pas à accumuler des images, mais à recevoir un témoignage qui réoriente le regard et le cœur.
 
 ## Piste lexicale
 
@@ -34,21 +37,24 @@ Mots-clés à isoler :
 - illusion
 - signe
 - rectitude
-- rectitude
 - adhésion
 - avertissement
+- ciel
+- regard
+- cœur
 
 ## Renvois immédiats
 
 - sourates de la vision vraie
 - sourates de la révélation véridique
 - sourates de la rectitude du témoignage
+- sourates du regard réorienté
 
 ## Visualize
 
 Carte à produire :
 - centre : An-Najm
-- branches : vision / révélation / vérité / témoignage / illusion / signe / rectitude / adhésion / avertissement / céleste
+- branches : vision / révélation / vérité / témoignage / illusion / signe / rectitude / adhésion / avertissement / ciel / regard / cœur
 
 ## Traduction française
 
