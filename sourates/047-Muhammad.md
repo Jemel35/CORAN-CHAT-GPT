@@ -19,10 +19,13 @@ Cette sourate met en avant la fidélité au message, le combat spirituel et la d
 - progression de l’opposition vers la clarification
 - mise en valeur du soutien à la vérité
 - passage de la pression à la constance
+- relation entre adhésion et endurance
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la fidélité active : soutenir le vrai demande de tenir dans le temps sans perdre la clarté du message.
+
+Elle montre aussi que la fidélité n’est pas une posture abstraite : elle se prouve dans la durée, la résistance et la cohérence entre parole et appui concret.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - vérité
 - appel
 - avertissement
+- endurance
+- cohérence
 
 ## Renvois immédiats
 
 - sourates de la fidélité active
 - sourates du combat spirituel
 - sourates de la constance dans l’épreuve
+- sourates de l’endurance fidèle
 
 ## Visualize
 
 Carte à produire :
 - centre : Muḥammad
-- branches : fidélité / message / combat / soutien / opposition / responsabilité / constance / vérité / appel / avertissement
+- branches : fidélité / message / combat / soutien / opposition / responsabilité / constance / vérité / appel / avertissement / endurance / cohérence
 
 ## Traduction française
 
