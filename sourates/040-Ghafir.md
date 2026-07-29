@@ -19,10 +19,13 @@ Cette sourate met en avant le pardon, la miséricorde, le rappel du jugement et 
 - progression de la lutte vers la clarté
 - mise en valeur du soutien aux croyants
 - passage de l’arrogance à la responsabilité
+- articulation entre adresse au pécheur et soutien au fidèle
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du pardon vigilant : la miséricorde y ouvre la possibilité du retour sans effacer la gravité du jugement.
+
+Elle montre aussi que le pardon n’est pas faiblesse : il s’accompagne d’un discernement ferme face à l’arrogance et à la dénégation.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - rappel
 - retour
 - gravité
+- discernement
+- fidélité
 
 ## Renvois immédiats
 
 - sourates du pardon et de la miséricorde
 - sourates du jugement et de la vérité
 - sourates de la patience dans l’adversité
+- sourates du discernement face à l’arrogance
 
 ## Visualize
 
 Carte à produire :
 - centre : Ghāfir
-- branches : pardon / miséricorde / jugement / vérité / arrogance / patience / croyants / rappel / retour / gravité
+- branches : pardon / miséricorde / jugement / vérité / arrogance / patience / croyants / rappel / retour / gravité / discernement / fidélité
 
 ## Traduction française
 
