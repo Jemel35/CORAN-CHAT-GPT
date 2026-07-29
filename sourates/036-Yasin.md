@@ -19,10 +19,13 @@ Cette sourate met en avant le message, le rappel, les signes dans la création e
 - articulation entre récit exemplaire et méditation sur la vie
 - mise en valeur du message comme cœur de la sourate
 - passage du refus à la clarté du rappel
+- relation entre preuve, parole et réveil intérieur
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie du rappel vivant : le message est présenté comme une force qui réveille, éclaire et met en demeure le sujet humain.
+
+Elle montre aussi que la vie et la mort deviennent intelligibles lorsqu’elles sont replacées dans l’horizon du signe et de l’appel.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - avertissement
 - message
 - clarté
+- preuve
+- réveil
 
 ## Renvois immédiats
 
 - sourates du message et du rappel
 - sourates des signes dans la création
 - sourates de la responsabilité face à l’appel
+- sourates du réveil intérieur
 
 ## Visualize
 
 Carte à produire :
 - centre : Yā-Sīn
-- branches : messager / rappel / signe / création / vie / mort / responsabilité / avertissement / message / clarté
+- branches : messager / rappel / signe / création / vie / mort / responsabilité / avertissement / message / clarté / preuve / réveil
 
 ## Traduction française
 
