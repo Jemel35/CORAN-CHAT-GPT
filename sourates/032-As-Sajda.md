@@ -19,10 +19,13 @@ Cette sourate met en avant la révélation, la création, la prosternation et la
 - progression de l’évidence vers l’obéissance
 - mise en valeur de l’accueil du signe
 - passage du vrai aperçu au vrai incarné
+- relation entre vision du signe et mouvement du corps
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de l’adhésion : le signe n’est pas seulement contemplé, il appelle une réponse corporelle et spirituelle qui prend la forme de la prosternation.
+
+Elle montre aussi que la vérité révélée ne reste pas au niveau de l’idée : elle doit devenir geste, orientation et consentement intérieur.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - obéissance
 - adhésion
 - évidence
+- consentement
+- orientation
 
 ## Renvois immédiats
 
 - sourates de la révélation et de la prosternation
 - sourates du signe cosmique
 - sourates de l’adhésion croyante
+- sourates du consentement intérieur
 
 ## Visualize
 
 Carte à produire :
 - centre : As-Sajda
-- branches : révélation / création / prosternation / croyant / dénégateur / signe / retour / obéissance / adhésion / évidence
+- branches : révélation / création / prosternation / croyant / dénégateur / signe / retour / obéissance / adhésion / évidence / consentement / orientation
 
 ## Traduction française
 
