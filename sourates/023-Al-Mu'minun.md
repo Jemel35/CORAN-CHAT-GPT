@@ -19,10 +19,13 @@ Cette sourate met en avant le profil des croyants, la cohérence entre foi inté
 - articulation entre foi, conduite et mémoire
 - continuité entre les figures prophétiques et la vocation des croyants
 - mise en ordre de l’intériorité par le rappel
+- passage du profil éthique à l’horizon de la création
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de l’accomplissement croyant : elle relie la qualité du cœur, la cohérence des actes et la contemplation du signe afin de former un type humain fidèle et ordonné.
+
+Elle montre aussi que la foi n’est pas seulement une adhésion, mais une forme d’harmonie entre intériorité, conduite et perception du monde comme signe.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - rappel
 - prophètes
 - ordre
+- cœur
+- harmonie
 
 ## Renvois immédiats
 
 - sourates du portrait spirituel
 - sourates du signe et de la création
 - sourates de la responsabilité croyante
+- sourates de l’harmonie intérieure
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Muʾminūn
-- branches : croyants / foi / conduite / signe / création / responsabilité / cohérence / rappel / prophètes / ordre
+- branches : croyants / foi / conduite / signe / création / responsabilité / cohérence / rappel / prophètes / ordre / cœur / harmonie
 
 ## Traduction française
 
