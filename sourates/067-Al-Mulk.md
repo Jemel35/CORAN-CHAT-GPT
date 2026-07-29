@@ -19,10 +19,13 @@ Cette sourate met en avant la souveraineté, la création ordonnée et l’appel
 - progression du regard vers la conscience
 - mise en valeur du règne comme preuve
 - passage de la contemplation à la responsabilité
+- relation entre ordre du monde et lucidité intérieure
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la souveraineté : le monde est présenté comme un ordre qui appelle à reconnaître la royauté du Créateur.
+
+Elle montre aussi que la contemplation du monde n’est pas un aboutissement en soi : elle doit devenir reconnaissance, lucidité et responsabilité.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - preuve
 - contemplation
 - vérité
+- lucidité
+- royauté
 
 ## Renvois immédiats
 
 - sourates de la souveraineté divine
 - sourates de la création ordonnée
 - sourates de la réflexion responsable
+- sourates de la royauté du Créateur
 
 ## Visualize
 
 Carte à produire :
 - centre : Al-Mulk
-- branches : souveraineté / création / réflexion / regard / responsabilité / règne / ordre / preuve / contemplation / vérité
+- branches : souveraineté / création / réflexion / regard / responsabilité / règne / ordre / preuve / contemplation / vérité / lucidité / royauté
 
 ## Traduction française
 
