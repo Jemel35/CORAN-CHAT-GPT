@@ -19,10 +19,13 @@ Cette sourate met en avant le Créateur comme source des signes, la reconnaissan
 - progression de la contemplation vers la responsabilité
 - mise en valeur de la diversité comme preuve
 - passage du visible au rapport juste au Créateur
+- relation entre beauté du monde et exigence morale
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la gratitude créatrice : voir le monde comme création, c’est déjà entrer dans une réponse de reconnaissance et de responsabilité.
+
+Elle montre aussi que la création n’est pas un simple décor : elle est une adresse qui convoque le regard, la lucidité et la fidélité au vrai.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - rappel
 - vérité
 - lucidité
+- beauté
+- adresse
 
 ## Renvois immédiats
 
 - sourates du Créateur et du signe
 - sourates de la gratitude créatrice
 - sourates de la responsabilité du regard
+- sourates de la beauté comme adresse
 
 ## Visualize
 
 Carte à produire :
 - centre : Fāṭir
-- branches : Créateur / signe / gratitude / création / diversité / responsabilité / regard / rappel / vérité / lucidité
+- branches : Créateur / signe / gratitude / création / diversité / responsabilité / regard / rappel / vérité / lucidité / beauté / adresse
 
 ## Traduction française
 
