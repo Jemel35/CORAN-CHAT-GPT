@@ -19,10 +19,13 @@ Cette sourate met en avant les signes dans l’histoire, les cycles de victoire 
 - progression de l’événement vers le signe
 - rôle du temps historique comme enseignement
 - articulation entre constance et changement
+- lien entre observation du monde et stabilité du rappel
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de l’histoire signifiante : les événements ne sont pas seulement des faits, ils deviennent des indices qui invitent à la méditation et à la fidélité.
+
+Elle montre aussi que le temps historique n’est pas un simple déroulement chronologique : il est un espace où se révèlent les signes et où se forme le regard croyant.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - temps
 - événement
 - sens
+- observation
+- rappel
 
 ## Renvois immédiats
 
 - sourates des signes historiques
 - sourates de la méditation sur le temps
 - sourates de la fidélité au sens
+- sourates de l’observation du monde
 
 ## Visualize
 
 Carte à produire :
 - centre : Ar-Rūm
-- branches : signe / histoire / victoire / défaite / méditation / ordre / fidélité / temps / événement / sens
+- branches : signe / histoire / victoire / défaite / méditation / ordre / fidélité / temps / événement / sens / observation / rappel
 
 ## Traduction française
 
