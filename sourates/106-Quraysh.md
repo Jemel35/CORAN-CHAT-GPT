@@ -19,10 +19,13 @@ Cette sourate met en avant la sécurité, le commerce, la gratitude et l’appel
 - progression du commerce vers le culte
 - mise en valeur du sanctuaire
 - passage de l’avantage à la reconnaissance
+- relation entre stabilité et fidélité
 
 ## Déploiement thématique
 
 La sourate peut être lue comme une pédagogie de la gratitude sociale : la stabilité matérielle appelle une fidélité au Seigneur qui la rend possible.
+
+Elle montre aussi que la sécurité collective ne vaut pleinement que si elle conduit à reconnaître le sanctuaire comme source du don.
 
 ## Piste lexicale
 
@@ -37,18 +40,21 @@ Mots-clés à isoler :
 - don
 - reconnaissance
 - fidélité
+- collectivité
+- paix
 
 ## Renvois immédiats
 
 - sourates de la gratitude sociale
 - sourates du sanctuaire
 - sourates du service du Seigneur
+- sourates de la stabilité collective
 
 ## Visualize
 
 Carte à produire :
 - centre : Quraysh
-- branches : sécurité / commerce / gratitude / sanctuaire / Seigneur / service / stabilité / don / reconnaissance / fidélité
+- branches : sécurité / commerce / gratitude / sanctuaire / Seigneur / service / stabilité / don / reconnaissance / fidélité / collectivité / paix
 
 ## Traduction française
 
